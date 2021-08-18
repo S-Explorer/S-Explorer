@@ -5,4 +5,4 @@
 > - ⭐学习：![c语言](https://img.shields.io/badge/C-red?logo=C) ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus) ![python](https://img.shields.io/badge/python-yellow?logo=python) ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-blue) ![CAD](https://img.shields.io/badge/modleing-inactive?logo=autodesk)
 > - 🔧记录：![markdown](https://img.shields.io/badge/Markdown-black?logo=markdown) ![LaTeX](https://img.shields.io/badge/LaTeX-gray?logo=latex) 
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=S-Explorer&show_icons=true&count_private=true&hide=prs&theme=dracula"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Explorer&hide=css,html&layout=compact">
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=S-Explorer&show_icons=true&count_private=true&hide=prs&theme=dracula"> 
